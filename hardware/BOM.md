@@ -8,7 +8,8 @@ We have selected [this display](https://www.waveshare.com/product/raspberry-pi/d
 
 The RPi can be fixed to the display and connected with the FPC 15PIN (Flexible Printed Circuits, opposite sides) of 50 mm length:
 
-![Display image](img/Display-RPi.png)
+!<img src="img/Display-RPi.png" width="200" /> 
+)
 
 ## 2/ Miniature camera: 
 
