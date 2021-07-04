@@ -5,8 +5,10 @@ We have selected [this display](https://www.waveshare.com/product/raspberry-pi/d
 - it is compatible with the DSI display interface of the Rapsberry Pi
 - it has a resolution of 800x400 with touch control
 - it is relatively cheap (~ 40$ or 36€).
-- 
+
 The RPi can be fixed to the display and connected with the FPC 15PIN (Flexible Printed Circuits, opposite sides) of 50 mm length:
 
-![Display image](img/display.png)
+![Display image](img/Display-RPi.png)
+
+## 2/ Miniature camera: 
 
