@@ -12,5 +12,4 @@ This repository contains:
 * `hardware`
   * `STL` : contains the STL files to print the four parts that make the Eve head.
   * `BOM.md`: the bill of material.
-* `software`
-  * `RPi_config`: contains the instructions to add at the end of file `config.txt` in the `boot` partition of the SD card in order to use the DSI connector of the RPI4 to connect the display screen.
+* `software`: contains the instructions to customize the file `config.txt` in the `boot` partition of the SD card in order to use the DSI connector of the RPI4 to connect the display screen. A full example of `config.txt` is also given.
