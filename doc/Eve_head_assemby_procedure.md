@@ -7,7 +7,8 @@ With [this bill of materials](../hardware/BOM.md), you should have all this mate
 ## 1 - Preparing the head parts
 
 Insert the miniature button magnets in the holes provided for this purpose in the _bottom/face_ and _upper_ parts.
-WARNING: you must take care to respect the __north__/__south__ poles of the magnets to ensure the fixation of the _upper_ part on the _bottom/face_ part.
+
+WARNING: be careful with the magnet orientation while inserting them. __north__ and __south__ poles attract each other ensuring magnetic attraction between the the _up_ and _face-bottom_ parts, while __north__/__north__ or __south__/__south__ repel each other !
 
 ![all](img/magnet_in_head_parts.png)
 
@@ -45,16 +46,18 @@ Insert the camera in the hole in the "bottom-face part" of the head:
 
 Place the RPi module on the "RPi support" part as shown in the image and gently tighten the 4 x M2x6 screws:
 
-<img src="img/RPi_on_support.png" width="550"> 
+<img src="img/RPi_on_support.png" width="600"> 
+
+When done, you can place the RPi support in the "bottom-face part" of the head, with the GPIO connector at the raer of the head.
 
 
-## 6 - Final step
+## 6 - Final steps
 
-- Connect the camera cable to the connector as shown in the image, with connectors side of the cable facing the connector contacts (same gentle operation as in step 3).
+- Connect the camera cable to the camera connector of the RPi module as shown in the image, with the contacts side of the cable facing the connector contacts (same gentle operation as in step 3).
 
 <img src="img/final_step_1.png" width="550"> 
 
-- Connect the display cable to the slot as shown in the image, with contact side of the cable facing the slot contacts.
+- Connect the display cable to the RPi display connector as shown in the image, with contact side of the cable facing the connector contacts.
   
 - Connect the power connector to the GPIO connector of the RPi module as shown in the image.
 
@@ -67,6 +70,6 @@ Place the RPi module on the "RPi support" part as shown in the image and gently 
 
 Et Voilà :smirk:
 
-Close the head with the "upper part" : your Poppy's head is ready ....
+Close the head with the "upper part" : the Poppy _Eve head_ is ready ....
 
-![eve head](img/eve_head.png)
+![eve head](img/eve_head.png)111
