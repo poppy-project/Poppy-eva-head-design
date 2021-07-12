@@ -72,4 +72,4 @@ Et Voilà :smirk:
 
 Close the head with the "upper part" : the Poppy _Eve head_ is ready ....
 
-![eve head](img/eve_head.png)111
+![eve head](img/eve_head.png)
