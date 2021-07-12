@@ -6,10 +6,11 @@ Raspberry Pi 4-based head design for Poppy Torso and Humanoid ; embedding a scre
 
 This repository contains:
 
-* `doc`: the documentation files on the Poppy Eve head
-* `hardware`
-  * `STL` : the directory with the STL files to print the head parts
-  * `BOM.md`: the bill of material
+* `doc` directory contains the documentation files on the Poppy Eve head:
+  * `Eve_head_design.pdf` gives the design history of the head Eve, made by 3 students of the ENSAM Bachelor of technology
+  * `Eve_head_assemby_procedure.md` is the assembly guide to make the Eve head for the Poppy-Torso robot.
+* `hardware` directory
+  * `STL` : contains the STL files to print the four head parts that make the Eve head.
+  * `BOM.md`: the bill of material.
 * `software`
-  * `RPi_config`: contains the file ` config.txt` with the instruction tu use the DSI connector of the RPI4 to connect the display
-  * `blinking_eyes`: files to make Poppy's eye blink using a processing program.
+  * `RPi_config`: contains the instructions to add to the file ` config.txt` in the `boot\ partition of the SD card in order to use the DSI connector of the RPI4 to connect the display screen.
