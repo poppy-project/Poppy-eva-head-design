@@ -44,11 +44,13 @@ Insert the camera in the hole in the "bottom-face part" of the head:
 
 ## 5 - Preparing the RPi module
 
-Place the RPi module on the "RPi support" part as shown in the image and gently tighten the 4 x M2x6 screws:
+- You must flash the SD card to install a Linux distribution and the Poppy software: follow this [guide](https://github.com/poppy-project/poppy-docs/blob/master/en/installation/burn-an-image-file.md#download-the-image).<br>Then you can insert the SD card in the SD slot of the RPi module.
+
+- Place the RPi module on the "RPi support" part as shown in the image and gently tighten the 4 x M2x6 screws:
 
 <img src="img/RPi_on_support.png" width="600"> 
 
-When done, you can place the RPi support in the "bottom-face part" of the head, with the GPIO connector at the raer of the head.
+- When done, you can place the RPi support in the "bottom-face part" of the head, with the GPIO connector at the raer of the head.
 
 
 ## 6 - Final steps
