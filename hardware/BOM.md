@@ -7,7 +7,7 @@ For the head _eve_, you need the following material:
 |  1.1  | Raspberry Pi 4 module with its SD card                                                                              |    1     |
 |  1.2  | Power cable  using  a 12 V -> 6 V converter                                                                         |    1     |
 |  2.1  | 3.4 inch display 800x400                                                                                            |    1     |
-|  2.2  | 25 cm FPC 15PIN (Flexible Printed Circuits, opposite sides) cable to connect the display to the DSI port of the RPi |    1     |
+|  2.2  | 20 cm FPC 15PIN (Flexible Printed Circuits, opposite sides) cable to connect the display to the DSI port of the RPi |    1     |
 |   3   | Miniature RPi camera B0066                                                                                          |    1     |
 |   4   | Miniature button magnets                                                                                            |    4     |
 |  5.1  | Front-bottom part of the head (3D printed)                                                                          |    1     |
@@ -39,7 +39,7 @@ We have selected [this display](https://www.waveshare.com/product/raspberry-pi/d
 
 As shown on the image, the RPi module can be attached directly to the back of the display, but for the Poppy usage, the display will be connected to the DSI connector using a 25 cm long FPC 15PIN (Flexible Printed Circuits, opposite sides).
 
-Available for example at [www.waveshare.com](https://www.waveshare.com/product/raspberry-pi/displays/lcd-oled/4.3inch-dsi-lcd.htm?).
+The display is available for example from [www.waveshare.com](https://www.waveshare.com/product/raspberry-pi/displays/lcd-oled/4.3inch-dsi-lcd.htm?), and the flat flexibal cable is available for example from [FARNEL](https://www.newark.com/multicomp-pro/mp-ffca10152003b/cable-assy-ffc-ffc-15-core-200mm/dp/67AH2982?ost=3385343).
 
 ## 3/ Miniature camera 5 Mpx B0066
 
