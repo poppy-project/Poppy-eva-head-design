@@ -1,4 +1,4 @@
-# Eve-Head  assembly procedure
+# Eva-Head  assembly procedure
 
 With [this bill of materials](../hardware/BOM.md), you should have all this material on the work bench:
 
@@ -72,6 +72,6 @@ Insert the camera in the hole in the "bottom-face part" of the head:
 
 Et Voilà :smirk:
 
-Close the head with the "upper part" : the Poppy _Eve head_ is ready ....
+Close the head with the "upper part" : the Poppy _Eva head_ is ready ....
 
-![eve head](img/eve_head.png)
+![eva head](img/eve_head.png)
