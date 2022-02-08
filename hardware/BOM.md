@@ -1,6 +1,6 @@
 # BOM
 
-For the head _eve_, you need the following material:
+For the head _eva_, you need the following material:
 
 |  id   | description                                                                                                         | quantity |
 | :---: | :------------------------------------------------------------------------------------------------------------------ | :------: |
@@ -66,17 +66,17 @@ All the STL files are in the directory `STL`.
 
 - the head is divided in 2 parts fixed with the miniature magnets :
   - the front/bottom part:<br>
-`eve_head_frontBottom-part.stl`<br>
-<img src="img/eve_head_frontBottom-part.png" width="150" />
+`eva_head_frontBottom-part.stl`<br>
+<img src="img/eva_head_frontBottom-part.png" width="150" />
   
   - the top part:<br>
-`eve_head_top-part.stl`<br>
-<img src="img/eve_head_top-part.png" width="150" />
+`eva_head_top-part.stl`<br>
+<img src="img/eva_head_top-part.png" width="150" />
 
 - the RPi4 support inserted in the frontBottom part:<br>
-`eve_head_RPi4Support-part.stl`<br>
-<img src="img/eve_head_RPi4Support-part.png" width="110" />
+`eva_head_RPi4Support-part.stl`<br>
+<img src="img/eva_head_RPi4Support-part.png" width="110" />
   
 - two "locking bracket" parts are used to lock the display in the head:<br>
-`eve_head_lock-part.stl`<br>
-<img src="img/eve_head_lock-part.png" width="80" />
+`eva_head_lock-part.stl`<br>
+<img src="img/eva_head_lock-part.png" width="80" />
