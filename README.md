@@ -2,7 +2,7 @@
 
 Raspberry Pi 4-based head design for Poppy Torso and Humanoid ; embedding a screen: the work was done by 3 students of the ENSAM Bachelor of technology at Bordeaux, France: Damien MARTY, Clément GEA and Éléa CHARPNTIER, under the supervison of Jean-Luc CHARLES and Cécile DELARUE, professors at ENSAM Bordeaux.
 
-<img src="doc/img/eva_head.png" width="200" />
+<img src="doc/img/Eva_head_with_students.png" width="200" /> <img src="doc/img/eva_head.png" width="200" /> 
 
 This repository contains:
 
